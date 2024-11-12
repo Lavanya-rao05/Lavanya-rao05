@@ -3,7 +3,6 @@
 ## About Me ℹ️
 🔭 I’m currently pursuing a B.E. in Computer Science and Engineering.  
 🌱 I’m focused on advancing my skills in software development, machine learning, and web technologies.  
-💻 I enjoy working on projects that blend practical applications with technology and solving real-world challenges.  
 💬 I’m looking to collaborate on projects related to web development, machine learning, and innovative applications.  
 😄 Pronouns: She/Her  
 📫 You can reach me at lavanyarao0502@gmail.com  
@@ -20,12 +19,9 @@
   - **Tech Stack**: Python, YOLOv5, Deep Learning
 
 ## Skills & Technologies 🛠️
-- **Programming Languages**: Python, JavaScript, HTML, CSS, C
+- **Programming Languages**: Python, JavaScript, HTML, CSS, Java, C
 - **Technologies & Frameworks**: React, Node.js, Flask, MySQL, YOLO, OpenCV
-- **Other Skills**: Data Structures and Algorithms, Git, VS Code, API Development
-
-## GitHub Stats 📊
-![Lavanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lavanya-rao05&show_icons=true&theme=radical)
+- **Other Skills**: Data Structures and Algorithms, Git, VS Code
 
 ## Connect with Me 🤝
 - [LinkedIn](https://www.linkedin.com/in/lavanya-rao245)
