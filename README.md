@@ -21,8 +21,4 @@
 ## Skills & Technologies 🛠️
 - **Programming Languages**: Python, JavaScript, HTML, CSS, Java, C
 - **Technologies & Frameworks**: React, Node.js, Flask, MySQL, YOLO, OpenCV
-- **Other Skills**: Data Structures and Algorithms, Git, VS Code
-
-## Connect with Me 🤝
-- [LinkedIn](https://www.linkedin.com/in/lavanya-rao245)
-- [GitHub](https://github.com/Lavanya-rao05)
+- **Other Skills**: Data Structures and Algorithms, Git, VS Code, MySQL
