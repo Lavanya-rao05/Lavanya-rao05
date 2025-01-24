@@ -3,10 +3,9 @@
 ## About Me ℹ️
 🔭 I’m currently pursuing a B.E. in Computer Science and Engineering.  
 🌱 I’m focused on advancing my skills in software development, machine learning, and web technologies.  
-💬 I’m looking to collaborate on projects related to web development, machine learning, and innovative applications.  
+💬 I’m looking to collaborate on projects related to web development and innovative applications.  
 😄 Pronouns: She/Her  
 📫 You can reach me at lavanyarao0502@gmail.com  
-⚡ Fun fact: I love learning new technologies and experimenting with different programming languages!  
 
 ## Projects 🚀
 - **Object Detection App**: Built a real-time object detection system using YOLO and OpenCV.
@@ -20,5 +19,5 @@
 
 ## Skills & Technologies 🛠️
 - **Programming Languages**: Python, JavaScript, HTML, CSS, Java, C
-- **Technologies & Frameworks**: React, Node.js, Flask, MySQL, YOLO, OpenCV
+- **Technologies & Frameworks**: React, Flask, MySQL, YOLO, OpenCV
 - **Other Skills**: Data Structures and Algorithms, Git, VS Code, MySQL
