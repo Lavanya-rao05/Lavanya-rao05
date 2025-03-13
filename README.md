@@ -1,22 +1,23 @@
-<h1 align="center">Hi 👋, I'm Lavanya</h1>
-<h3 align="center">Dedicated Computer Science Engineer with expertise in full-stack development, software engineering, and database management.</h3>
+# 👋 Hi, I’m @Lavanya-rao05
 
-- 🔭 I’m currently working on **Waste Disposal Notification System**
+## About Me ℹ️
+🔭 I’m currently pursuing a B.E. in Computer Science and Engineering.  
+🌱 I’m focused on advancing my skills in software development, machine learning, and web technologies.  
+💬 I’m looking to collaborate on projects related to web development and innovative applications.  
+😄 Pronouns: She/Her  
+📫 You can reach me at lavanyarao0502@gmail.com  
 
-- 🌱 I’m currently learning **DSA,React**
+## Projects 🚀
+- **Object Detection App**: Built a real-time object detection system using YOLO and OpenCV.
+  - **Tech Stack**: Python, Flask, OpenCV, HTML, CSS
+- **AgroCulture**: A web app connecting farmers and buyers directly to improve agricultural sales and reach.
+  - **Tech Stack**: HTML, CSS, SQL, PHP
+- **Spotify Playlist Fetcher**: Fetches top 100 songs from a selected date using the Spotify API.
+  - **Tech Stack**: Python, Spotify API
+- **Printed Circuit Board Defect Detection**: Using YOLOv5 to automate defect detection in PCBs for improved quality control.
+  - **Tech Stack**: Python, YOLOv5, Deep Learning
 
-- 👨‍💻 All of my projects are available at [https://personalportfoliio.netlify.app/](https://personalportfoliio.netlify.app/)
-
-- 💬 Ask me about **React, Node.js, Flask, APIs**
-
-- 📫 How to reach me **lavanyarao0502@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lavanya-rao245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lavanya-rao245" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lavanya0502" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lavanya0502" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/user/lavanyare7on" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/lavanyare7on" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## Skills & Technologies 🛠️
+- **Programming Languages**: Python, JavaScript, HTML, CSS, Java, C
+- **Technologies & Frameworks**: React, Flask, MySQL, YOLO, OpenCV
+- **Other Skills**: Data Structures and Algorithms, Git, VS Code, MySQL
