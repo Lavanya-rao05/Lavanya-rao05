@@ -4,7 +4,6 @@
 🔭 I’m currently pursuing a B.E. in Computer Science and Engineering.  
 🌱 I’m focused on advancing my skills in software development, machine learning, and web technologies.  
 💬 I’m looking to collaborate on projects related to web development and innovative applications.  
-😄 Pronouns: She/Her  
 📫 You can reach me at lavanyarao0502@gmail.com  
 
 ## Projects 🚀
